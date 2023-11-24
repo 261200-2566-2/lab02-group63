@@ -11,6 +11,7 @@ public class AirPurifier {
         setSerialNo(serialNo);
         setLevel(level);
         getModel();
+        getSerialNo();
     }
     public void setModel(String model) {
         this.model = model;
